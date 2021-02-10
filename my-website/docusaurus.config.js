@@ -90,7 +90,7 @@ module.exports = {
           Import: Please change this to your local docusaurus doc path. this is just a example!
           */
           editUrl:
-            'mdedit://docusaurus_edit_by_typora/my-website',
+            'dys-typora-open://docusaurus_edit_by_typora/my-website',
         },
         blog: {
           showReadingTime: true,
