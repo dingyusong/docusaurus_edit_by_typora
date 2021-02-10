@@ -36,8 +36,6 @@
 2. edit you docusaurus.config.js->presets->docs->editUrl to your docusaurus path。
 3. ![image-20210210235037834](README.assets/image-20210210235037834.png)
 
-![image-20210116170450598](README.assets/image-20210116170450598.png)
-
 ![image-20210210235236087](README.assets/image-20210210235236087.png)
 
 dys-typora-open base on your home directory。click `edit this page ` it will call Typora to open doc1.md ,then you can edit it happily with Typora!
